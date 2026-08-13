@@ -10,6 +10,19 @@
 - Codex：`AGENTS.md` + `CODEX.md` + `.codex/skills/`
 - Agent 手册：`agents/*.md` 是 canonical 参考；Claude Code 同步到 `.claude/agents/`，Codex 通过 `.codex/agents/` 作为 reference adapter。
 
+## 隐私说明（Privacy）
+
+本公开仓库已做隐私清洗，以下内容**不包含在仓库中**（仅存在于使用者本地）：
+
+- `memory/` 下的个人记忆内容文件（用户画像、情绪记忆、关系时间线等），仅保留 `memory_rules.md` 规则
+- `context/active_session_summary.md` 会话摘要
+- `evolution/rejected/` 下的敏感提案记录（如健康相关、立场相关）
+- `note/` 下的电子书原件、个人录音、会议资料与科研数据（通过 `.gitignore` 排除）
+- `knowledge/` 下的 OCR 中间产物（`seg_*`、`ocr/`、`manifest.json`、日志）
+- 本机绝对路径（`C:\Users\<用户名>\.codex\skills\` 等已泛化）
+
+知识库中的**书籍 OCR 文本、source report、综合报告与索引**保留公开，作为长期知识来源；使用时请遵守各文件的来源标注与边界说明。
+
 ## 当前阶段
 
 当前阶段只搭建框架：
