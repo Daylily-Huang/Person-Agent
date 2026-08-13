@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "2191f25d",
+      "cron": "3 9 * * 1",
+      "prompt": "/health-check",
+      "createdAt": 1781441253040,
+      "recurring": true,
+      "createdBySessionId": "1de3c212-42e4-4e82-9e9e-4bd098512f79",
+      "createdByPid": 37460,
+      "lastFiredAt": 1781510833483
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "01_liuyao_classics",
+    "source": "六爻古籍合集[增删卜易][卜筮正宗][卜筮大全][易林补遗][易冒][易隐][火珠林] ([清]野鹤老人,[清] 王洪绪, [明]张世宝 等) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "六爻古籍合集，提供传统断卦术语、用神、六亲、世应、动变、应期等背景",
+    "method": "text_layer_garbled",
+    "note": "有文本层但乱码明显，先抽取作为目录和粗索引，后续如需精读应分书 OCR。",
+    "size_mb": 9.81,
+    "pages": 1517
+  },
+  {
+    "id": "02_najia_shifa",
+    "source": "纳甲筮法讲座 (刘大钧) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "纳甲筮法现代讲座，补充装卦、纳甲、六亲、世应、动爻和断法流程",
+    "method": "ocr",
+    "note": "扫描版，无可用文本层，使用 MinerU 分段 OCR。",
+    "size_mb": 40.0,
+    "pages": 148
+  },
+  {
+    "id": "03_meihua_yishu",
+    "source": "梅花易数预测学贾双萍 (梅花易数预测学贾双萍.pdf) (z-library.sk, 1lib.sk, z-lib.sk) (1).pdf",
+    "role": "梅花易数预测资料，补充象数起卦、体用、互变、外应和具体问题推演",
+    "method": "ocr",
+    "note": "扫描版，无可用文本层，使用 MinerU 分段 OCR。",
+    "size_mb": 49.17,
+    "pages": 181
+  }
+]

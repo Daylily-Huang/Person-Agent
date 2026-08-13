@@ -1,0 +1,26 @@
+{
+  "available_tools": {
+    "ebook-convert": false
+  },
+  "compression": 2,
+  "encoding": 65001,
+  "text_records": 231,
+  "target_text_length": 943539,
+  "decompressed_bytes": 946163,
+  "raw_bytes": 806449,
+  "utf8_decoded_chars": 500877,
+  "cleaned_chars": 231884,
+  "utf8_chinese_chars": 183204,
+  "term_hits": {
+    "荒诞": 74,
+    "反抗": 113,
+    "幸福": 141,
+    "阳光": 61,
+    "自由": 141,
+    "死亡": 142,
+    "正义": 69,
+    "爱": 563
+  },
+  "status": "parsed_palmdoc_html",
+  "reason": "MOBI 为 PalmDOC 压缩、UTF-8 编码、未加密；已本地解压并清洗 HTML，可作为补充证据。"
+}

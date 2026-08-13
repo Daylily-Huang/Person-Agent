@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01_ziping_zhenquan",
+    "source": "子平真诠 (Pdg2Pic, （清）沈孝瞻著；徐乐吾评注) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "八字主框架",
+    "size_mb": 52.32,
+    "pages": 256
+  },
+  {
+    "id": "02_zhouyi_yizhu",
+    "source": "国学经典译注丛书 周易译注 (黄寿祺，张善文撰, shou qi Huang) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "周易卦义与问题推演",
+    "size_mb": 73.78,
+    "pages": 403
+  },
+  {
+    "id": "03_liaofan_sixun",
+    "source": "了凡四训--中华人生智慧经典 ([明]袁了凡撰，尚荣、徐敏、赵锐评注 [[明]袁了凡撰，尚荣、徐敏、赵锐评注]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "命运边界与行为修正",
+    "size_mb": 2.54,
+    "pages": 392
+  }
+]

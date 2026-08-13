@@ -1,0 +1,64 @@
+# --- 运行时锁文件 ---
+.claude/scheduled_tasks.lock
+
+# --- Python 产物 ---
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+.tools/
+
+# --- 系统文件 ---
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# --- 大型电子书（版权材料，不版本控制） ---
+note/**/*.pdf
+note/**/*.epub
+note/**/*.mobi
+note/**/*.azw3
+note/**/*.djvu
+knowledge/**/*.pdf
+knowledge/**/*.epub
+knowledge/**/*.mobi
+knowledge/**/*.azw3
+knowledge/**/*.djvu
+
+# --- OCR 运行日志与 pid（中间产物，不版本控制） ---
+knowledge/**/*.log
+knowledge/**/*.pid
+
+# --- 个人录音、会议资料与科研数据（隐私，不版本控制） ---
+note/Spe Id/
+note/research-meeting/
+
+# --- 会话产物（不版本控制） ---
+logs/raw_sessions/
+
+# --- 个人记忆内容（隐私，仅本地保留） ---
+memory/user_profile.md
+memory/active_context.md
+memory/long_term_memory.md
+memory/emotional_memory.md
+memory/relationship_timeline.md
+memory/project_memory.md
+memory/memory_update_log.md
+context/active_session_summary.md
+
+# --- 敏感进化记录（隐私，仅本地保留） ---
+evolution/rejected/2026-06-16-sensitive-emotional-memory-proposal.md
+evolution/rejected/2026-06-16-political-historical-judgment-persona-proposal.md
+
+# --- OCR 中间 manifest（含本机绝对路径，不版本控制） ---
+knowledge/**/manifest.json
+
+# --- OCR 中间分段文件 ---
+knowledge/**/seg_*
+knowledge/**/ocr/
+
+# --- MinerU OCR 中间产物（路径过长，不版本控制） ---
+knowledge/**/pilot_*
+
+# --- 临时备份文件 ---
+*_原始备份_*

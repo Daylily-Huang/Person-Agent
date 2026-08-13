@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01_ditiansui",
+    "source": "滴天髓 ([宋]京图 撰 [明]刘伯温 注) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "气势、通关、清浊、体用补充",
+    "size_mb": 0.55,
+    "pages": 42
+  },
+  {
+    "id": "02_qiongtong_baojian",
+    "source": "穷通宝鉴 (Owner) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "调候、月令、寒暖燥湿补充",
+    "size_mb": 1.11,
+    "pages": 270
+  },
+  {
+    "id": "03_yuanhai_ziping",
+    "source": "渊海子平（宋朝徐升著 古本五卷本） (渊海子平（宋朝徐升著 古本五卷本）.pdf) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "role": "基础术语、十神、格局、传统断法补充",
+    "size_mb": 48.01,
+    "pages": 51
+  }
+]
